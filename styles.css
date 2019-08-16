@@ -1,0 +1,55 @@
+.navbar {
+    list-style-type: none;
+    margin: 1;
+    padding-right: 20px;
+    padding-top: 20px;
+    overflow: hidden;
+    background-color: #438D8F;
+  }
+  
+  li {
+    float: right;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  /* Change the link color to #111 (black) on hover */
+  /* li a:hover {
+    background-color: rgba(17, 17, 17, 0.986);
+  }
+  ul {
+    background-color: #438D8F;
+  } */
+  
+  h1 {
+    color: #ffffff;
+    text-align: left;
+    padding-left: 50px;
+  }
+.Latitude {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  text-align: left;
+  padding-left: 50px;
+  font-size: 250%;
+  font-weight: bold
+}
+table {
+  width: 100%;
+}
+
+th {
+  height: 25px;
+}
+.title1 {
+  text-align: center;
+}
