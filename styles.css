@@ -1,11 +1,12 @@
-.navbar {
+/* .navbar {
     list-style-type: none;
     margin: 1;
     padding-right: 20px;
     padding-top: 20px;
     overflow: hidden;
     background-color: #438D8F;
-  }
+    
+  } */
   
   li {
     float: right;
@@ -27,12 +28,12 @@
     background-color: #438D8F;
   } */
   
-  h1 {
+  /* h1 {
     color: #ffffff;
     text-align: left;
     padding-left: 50px;
-  }
-.Latitude {
+  } */
+/* .Latitude {
   display: block;
   color: white;
   text-align: center;
@@ -42,8 +43,8 @@
   padding-left: 50px;
   font-size: 250%;
   font-weight: bold
-}
-table {
+} */
+/* table {
   width: 100%;
 }
 
@@ -51,9 +52,9 @@ th {
   height: 25px;
 }
 .title1 {
-  text-align: center;
+  text-align: center; */
 }
-.green-box{
+/* .green-box{
   width:500px;
   height:450px; 
   position:relative;
@@ -63,8 +64,8 @@ th {
   border-radius: 15px;
   background-color:white;
   padding: 15px;
-}
-.pink-box{
+} */
+/* .pink-box{
   width:500px;
   height:400px; 
   position:relative;
@@ -74,3 +75,20 @@ th {
   border-radius: 15px;
   background-color:white;
   padding: 15px;
+} */
+.hcss {
+    display: grid;
+    justify-content: space-evenly;
+    float: left;
+  }
+.row1 {
+  display: grid;
+  justify-content: space-evenly;
+  float: :right;
+  position: absolute;
+  right: 0;
+}
+h3 {
+  font: bold;
+
+}
