@@ -53,3 +53,24 @@ th {
 .title1 {
   text-align: center;
 }
+.green-box{
+  width:500px;
+  height:450px; 
+  position:relative;
+  left:50px;
+  margin: 10px 15px 20px;
+  display:flex;
+  border-radius: 15px;
+  background-color:white;
+  padding: 15px;
+}
+.pink-box{
+  width:500px;
+  height:400px; 
+  position:relative;
+  left:500px;
+  margin: 10px 15px 20px;
+  display:flex;
+  border-radius: 15px;
+  background-color:white;
+  padding: 15px;
